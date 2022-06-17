@@ -9,7 +9,6 @@ on:
 jobs:
   build:
     name: Build website
-    needs: cache
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v3
@@ -21,7 +20,6 @@ jobs:
 
   lint:
     name: Run linters
-    needs: cache
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v3
@@ -33,7 +31,6 @@ jobs:
 
   exports:
     name: Check unused exports
-    needs: cache
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v3
