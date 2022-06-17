@@ -2,7 +2,7 @@
   "name": "website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.io/dynamic-flying/website",
+  "homepage": "https://dynamic-flying.github.io/website/",
   "dependencies": {
     "@types/node": "^16.11.41",
     "@types/react": "^18.0.14",
