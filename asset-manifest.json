@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dynamic-flying/website/static/css/main.073c9b0a.css",
+    "main.js": "/dynamic-flying/website/static/js/main.baf7dc61.js",
+    "static/js/787.71e672d5.chunk.js": "/dynamic-flying/website/static/js/787.71e672d5.chunk.js",
+    "static/media/logo.svg": "/dynamic-flying/website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dynamic-flying/website/index.html",
+    "main.073c9b0a.css.map": "/dynamic-flying/website/static/css/main.073c9b0a.css.map",
+    "main.baf7dc61.js.map": "/dynamic-flying/website/static/js/main.baf7dc61.js.map",
+    "787.71e672d5.chunk.js.map": "/dynamic-flying/website/static/js/787.71e672d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.baf7dc61.js"
+  ]
+}
